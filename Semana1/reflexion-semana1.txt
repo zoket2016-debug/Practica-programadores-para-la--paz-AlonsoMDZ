@@ -1,0 +1,11 @@
+El uso responsable de la información, la participación ciudadana y las herramientas de trabajo colaborativo como Git comparten un mismo pilar: la transparencia, la trazabilidad y la responsabilidad sobre el impacto colectivo. Ambas esferas (social y técnica) exigen que las acciones individuales dejen un registro claro para garantizar el orden y el bien común.
+
+Estos tres conceptos se relacionan directamente de la siguiente manera:
+
+1-Trazabilidad y Rendición de Cuentas: Así como el uso responsable de Internet exige verificar y citar fuentes para evitar la desinformación, en Git, el sistema de control de versiones permite auditar exactamente quién hizo cada cambio, cuándo lo hizo y por qué. Esto es el equivalente técnico a la transparencia exigida en la participación ciudadana.
+
+2-Construcción Colaborativa y Democrática: La participación ciudadana permite a las personas incidir en la sociedad mediante foros y herramientas digitales. En el ámbito técnico, usar Git y plataformas como GitHub facilita un modelo democrático de desarrollo abierto (Open Source), donde distintos programadores debaten propuestas, mejoran código y construyen soluciones conjuntas de manera ordenada.
+
+3-Gestión de Conflictos y Consenso: En el ciberespacio, el debate democrático requiere llegar a consensos respetando diversas perspectivas. En Git, cuando dos personas modifican la misma línea de un proyecto, el sistema obliga a resolver este "conflicto" de forma metódica antes de avanzar, emulando un proceso de mediación para el correcto funcionamiento del trabajo en equipo.
+
+En esencia, las tres son formas de Ciudadanía Digital. Ya sea al interactuar en redes sociales o programar un software, la ética, el respeto por el trabajo ajeno y el aporte responsable son el motor que permite a las comunidades organizarse, debatir y evolucionar sin caer en el caos.
