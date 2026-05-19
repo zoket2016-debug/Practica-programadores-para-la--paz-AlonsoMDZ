@@ -1,0 +1,1 @@
+Dominar la terminal es vital para un desarrollador porque le otorga velocidad, control y precisión. A través de comandos, puedes navegar, buscar y organizar archivos de forma mucho más rápida que con la interfaz gráfica, permitiéndote automatizar tareas repetitivas y gestionar tu proyecto directamente en entornos de servidor o Git.
