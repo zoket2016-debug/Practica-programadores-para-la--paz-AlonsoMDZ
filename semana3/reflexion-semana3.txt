@@ -1,0 +1,8 @@
+Mantener un registro de cambios con Git es crucial para la estabilidad y eficiencia de cualquier proyecto de software. Permite a los equipos trabajar en paralelo, rastrear exactamente quién hizo cada modificación, cuándo se hizo y por qué, y revertir errores de forma segura.
+
+Las ventajas clave incluyen:
+
+Control de versiones y reversión: Puedes regresar a cualquier versión anterior del código en segundos si una nueva actualización falla.
+Trabajo colaborativo: Permite que varios programadores trabajen en distintas partes del código simultáneamente sin sobrescribir el trabajo de los demás.
+Experimentación segura: Mediante el uso de "ramas" (branches), los desarrolladores pueden probar nuevas funciones sin alterar el código principal.
+Auditoría y trazabilidad: Cada cambio queda registrado con un autor y un mensaje descriptivo, lo que facilita la depuración de errores.

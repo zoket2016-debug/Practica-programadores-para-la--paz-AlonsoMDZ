@@ -1,0 +1,5 @@
+Repositorio: Es un espacio de almacenamiento (o proyecto) donde se guardan todos los archivos, el código y el historial de cambios de tu trabajo. Puede estar en tu propia computadora (local) o en un servidor en la nube (remoto).
+
+Commit: Es como tomar una "fotografía" o un punto de control de tu proyecto. Se usa para guardar de forma permanente los cambios que has hecho, siempre acompañado de un mensaje que explica qué modificaste o qué agregaste.
+
+Push: Es la acción de "empujar" o subir tus commits desde tu computadora hacia el repositorio en la nube. Esto sirve para respaldar tu trabajo y compartirlo con otros miembros del equipo.
