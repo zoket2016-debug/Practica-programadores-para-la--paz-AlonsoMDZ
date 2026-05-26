@@ -1,0 +1,8 @@
+* Ruta: http://localhost:3000 
+- Lo que ocurre: El navegador me muestra el texto "Servidor activo". Esta es la ruta raíz o principal (/) de mi aplicación.
+
+* Ruta: http://localhost:3000/saludo
+-Lo que ocurre: El navegador me muestra el texto "Hola comunidad". El servidor identificó la ruta /saludo y ejecutó la respuesta específica para ella.
+
+*Ruta: http://localhost:3000/mensaje/juan
+-Lo que ocurre: El navegador me muestra el texto "Hola juan". Aquí el servidor está utilizando un parámetro de ruta (:nombre), lo que significa que si cambio "juan" que fue lo que hice primero, por cualquier otro nombre en la barra de direcciones (por ejemplo, /mensaje/alonso), el servidor lo leerá dinámicamente y me salud´o con mi nombre.
